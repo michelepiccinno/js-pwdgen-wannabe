@@ -8,3 +8,4 @@ console.log(password);
 document.getElementById("my-name").innerHTML = firstName;
 document.getElementById("my-lastname").innerHTML = lastName;
 document.getElementById("my-password").innerHTML = password;
+document.getElementById("my-message").innerHTML = "prova;"
